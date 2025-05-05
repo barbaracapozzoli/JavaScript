@@ -1,2 +1,2 @@
 # JavaScript
-MyFirstProgram
+Minhas anotações nos estudos de JavaScript
