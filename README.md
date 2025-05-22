@@ -1,3 +1,3 @@
 # JavaScript
 
-Anotações relevantes para meus estudos em JavaScript
+Anotações relevantes para meu conhecimento inicial de JavaScript.
